@@ -1,0 +1,319 @@
+@import url('https://fonts.googleapis.com/css2?family=Moul&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Moul&family=Moulpali&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Battambang:wght@100;300;400;700;900&display=swap')
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.background-color {
+  background-color: #f0f0f0; /* Change to desired background color */
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+    /*==========================Section1================================ */
+.a1-section {
+  width: 210mm; /* A4 width */
+  height: 297mm; /* A4 height */
+  background-color: white; /* Change to desired section background color */
+  margin: 10px;
+  border: 1px solid black; /* Optional: Add border for visualization */
+  box-sizing: border-box;
+}
+
+.uyfc {
+  width: 140px; 
+  margin: 60px 0 0 100px;
+}
+.s1 {
+  font-family: Moul;
+  font-size: 15px;
+  margin: 0 0 0 55px;
+}
+
+.ss1 {
+  font-family: Moul;
+  font-size: 15px;
+  margin: 0 0 0 70px;
+}
+
+.s2 {
+  margin: -173px 150px 0 0;
+  text-align: right;
+  font-size: 15px;
+  font-family: Moulpali;
+}
+
+.ss2 {
+  margin: 0px 135px 40px 0;
+  text-align: right;
+  font-size: 15px;
+  font-family: Moulpali;
+}
+
+.own-img {
+  border-radius: 3%;
+  margin-left: 70%;
+  width: 130px;
+  height: auto;
+}
+
+.b1 {
+  text-decoration: underline;
+  margin: -50px 0 0 0;
+  font-size: 15px;
+  font-family: Moul;
+  text-align: center;
+}
+
+.per-info1 {
+  font-size: 14px;
+  font-family: moul;
+  margin: 0px 0 0 55px;
+}
+
+.all-info {
+  font-family: Battambang, system-ui;
+  font-size: 15px;
+  margin: 0px 70px 0 55px;
+  word-spacing: 0%;
+}
+
+.per-info2 {
+  font-family: moul;
+  font-size: 14px;
+  margin: 10px 0 13px 55px;
+}
+
+.table .tr1 .th1{
+  width: 100px;
+  width:4%;
+  padding: 0;
+  margin: -10px 20px 0px 55px;
+  border: 1px solid black;
+}
+
+table,th ,td {
+  font-size: 13px;
+  font-family: Battambang;
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: 0 0 0 55px ;
+}
+
+.per-info3 {
+  font-family: moul;
+  font-size: 14px;
+  margin: 10px 0 0 55px;
+}
+
+.explains {
+  font-family: Battambang;
+  margin: 0 0 -0 10%;
+  word-spacing: 30px;
+}
+
+/* <!-- ==========================Section2================================ --> */
+
+.a2-section {
+  width: 210mm; /* A4 width */
+  height: 297mm; /* A4 height */
+  background-color: white; /* Change to desired section background color */
+  /* margin: 10px; */
+  border: 1px solid black; /* Optional: Add border for visualization */
+  box-sizing: border-box;
+}
+
+.per-info4 {
+  font-size: 14px;
+  font-family: Moul;
+  margin: 60px 0 0 55px; 
+}
+
+.bb1 {
+  font-family: Battambang;
+  font-size: 15px;
+  margin: 0px 0 0 55px;
+}
+
+.per-info5 {
+  font-size: 14px;
+  font-family: Moul;
+  margin: 0 0 0 55px; 
+}
+
+.per-info6 {
+  font-size: 14px;
+  font-family: Moul;
+  margin: 0 0 0 55px; 
+}
+
+.per-info7 {
+  font-size: 14px;
+  font-family: Moul;
+  margin: 0 0 0 55px; 
+}
+
+.abc {
+  font-size: 14px;
+  font-family: Moul;
+  margin: 20px 0 0 50%; 
+}
+/* <!-- ==========================endOfSection2================================ --> */
+
+
+/* <!-- ==========================Section3================================ --> */
+
+.a3-section {
+  width: 210mm; /* A4 width */
+  height: 297mm; /* A4 height */
+  background-color: white; /* Change to desired section background color */
+  margin: 10px;
+  border: 1px solid black; /* Optional: Add border for visualization */
+  box-sizing: border-box;
+}
+
+.a3-section {
+  width: 210mm; /* A4 width */
+  height: 297mm; /* A4 height */
+  background-color: white; /* Change to desired section background color */
+  margin: 10px;
+  border: 1px solid black; /* Optional: Add border for visualization */
+  box-sizing: border-box;
+}
+
+.uyfcc {
+  width: 140px; 
+  margin: 60px 0 0 120px;
+}
+.v1 {
+  font-family: Moul;
+  font-size: 13px;
+  margin: 0 0 0 60px;
+}
+
+.vv1 {
+  font-family: Moul;
+  font-size: 13px;
+  margin: 0 0 0 54px;
+}
+
+.vvv1 {
+  font-family: Moul;
+  font-size: 13px;
+  margin: 0 0 0 100px;
+}
+
+.v2 {
+  margin: -173px 150px 0 0;
+  text-align: right;
+  font-size: 13px;
+  font-family: Moulpali;
+}
+
+.vv2 {
+  margin: -80px 135px 40px 0;
+  text-align: right;
+  font-size: 13px;
+  font-family: Moulpali;
+}
+
+.ownc-img {
+  border-radius: 3%;
+  margin-left: 70%;
+  width: 130px;
+  height: auto;
+}
+
+.e1 {
+  /* text-decoration: underline; */
+  margin: 0;
+  font-size: 15px;
+  font-family: Moul;
+  text-align: center;
+}
+
+.c1 {
+  font-size: 14px;
+  font-family: moul;
+  margin: 10px 0 0 55px;
+}
+.d1 {
+  font-family: Battambang, system-ui;
+  font-size: 15px;
+  margin: 5px 70px 0 100px;
+}
+
+.send-to1 {
+  text-align: center;
+  font-size: 15px;
+  font-family: Moul;
+  margin: 0px;
+}
+
+.send-to2 {
+  text-align: center;
+  font-size: 15px;
+  font-family: Moul;
+  margin-top: 10px;
+}
+
+.goal {
+  font-family: Battambang, system-ui;
+  font-size: 15px;
+  margin-left: 74px;
+}
+
+.all-info1 {
+  font-family: battambang;
+  font-size: 15px;
+  margin: 0 55px 0 100px;
+}
+
+.all-info2 {
+  font-family: battambang;
+  font-size: 15px;
+  margin: 0 55px 0 100px;
+}
+
+.last {
+  margin: 0 0 -10px 50%;
+  font-size: 15px;
+  font-family: battambang;
+}
+
+.last1 {
+  margin-left: 55%;
+  font-size: 15px;
+  font-family: Moul;
+}
+
+.first {
+  margin: -5% 0 0 20%;
+  font-family: battambang;
+  font-size: 15px;
+}
+
+.first1 {
+  margin: 0% 0 0 14%;
+  font-family: battambang;
+  font-size: 15px;
+}
+
+.first2 {
+  margin: 10px 0 0 25%;
+  font-family: moul;
+  font-size: 15px;
+}
+
+.lastt {
+  margin: 80px 0 0 50px;
+  font-size: 13px;
+  font-family: battambang;
+}
+/* <!-- ==========================endOfSection3================================ --> */
